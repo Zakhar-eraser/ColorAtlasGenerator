@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Texturer
+*.meta
+/Assets/TextMesh Pro/Documentation
+/Assets/TextMesh Pro/Examples & Extras
+/Assets/UI Toolkit
+/Library
+/Logs
+/obj/Debug
+/Temp
+/Assets/TextMesh Pro/Sprites
